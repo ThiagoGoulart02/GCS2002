@@ -1,12 +1,12 @@
 # GCS2002
 aprendendo
 
-<H2>Aprendendo a usar isso aqui</H2>
+<H2><bold>Aprendendo a usar isso aqui</bold></H2>
 
-<p>Logica pra computacao<br>
-BD1<br>
-Alest1<br>
-GCS<br>
-Fund Sistemas comput<br>
-POO<br>
-Eng requisitos</P>
+<ul><ul><p><li>Logica pra computacao<br>
+<li>BD1<br>
+<li>Alest1<br>
+<li>GCS<br>
+<li>Fund Sistemas comput<br>
+<li>POO<br>
+<li>Eng requisitos</P></ul></ul>
